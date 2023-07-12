@@ -7,9 +7,9 @@ class ExternalScene extends window.BaseScene {
           y: 280,
         },
       },
-      // map: {
-      //   tilesetUrl: "http://localhost:3002/tilesheet.png",
-      // },
+      map: {
+        tilesetUrl: "https://jpeyrol.github.io/Candy_Island/tileset.png",
+      },
       // mmo: {
       //   enabled: true,
       //   url: "ws://localhost:2567",
