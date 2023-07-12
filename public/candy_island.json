@@ -98,7 +98,7 @@
         {
          "columns":64,
          "firstgid":1,
-         "image":"tileset.png",
+         "image":"..\/tileset.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
