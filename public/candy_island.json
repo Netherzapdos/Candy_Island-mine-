@@ -98,7 +98,7 @@
         {
          "columns":64,
          "firstgid":1,
-         "image":"spr_tileset_sunnysideworld_16px.png",
+         "image":"tileset.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
